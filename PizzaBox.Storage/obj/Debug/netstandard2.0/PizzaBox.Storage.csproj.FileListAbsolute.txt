@@ -1,0 +1,11 @@
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/bin/Debug/netstandard2.0/PizzaBox.Storage.deps.json
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/bin/Debug/netstandard2.0/PizzaBox.Storage.dll
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/bin/Debug/netstandard2.0/PizzaBox.Storage.pdb
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/bin/Debug/netstandard2.0/PizzaBox.Domain.dll
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/bin/Debug/netstandard2.0/PizzaBox.Domain.pdb
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.csprojAssemblyReference.cache
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.AssemblyInfoInputs.cache
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.AssemblyInfo.cs
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.csproj.CopyComplete
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.dll
+/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/Debug/netstandard2.0/PizzaBox.Storage.pdb
