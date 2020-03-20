@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PizzaBox.TestingThing
+namespace PizzaBox.Storage
 {
     public class Class1
     {

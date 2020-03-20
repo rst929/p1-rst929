@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.TestingThing/PizzaBox.TestingThing.csproj": {}
+    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Domain/PizzaBox.Domain.csproj": {}
   },
   "projects": {
-    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.TestingThing/PizzaBox.TestingThing.csproj": {
+    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Domain/PizzaBox.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.TestingThing/PizzaBox.TestingThing.csproj",
-        "projectName": "PizzaBox.TestingThing",
-        "projectPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.TestingThing/PizzaBox.TestingThing.csproj",
+        "projectUniqueName": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Domain/PizzaBox.Domain.csproj",
+        "projectName": "PizzaBox.Domain",
+        "projectPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Domain/PizzaBox.Domain.csproj",
         "packagesPath": "/Users/rcomputer/.nuget/packages/",
-        "outputPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.TestingThing/obj/",
+        "outputPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rcomputer/.nuget/NuGet/NuGet.Config"

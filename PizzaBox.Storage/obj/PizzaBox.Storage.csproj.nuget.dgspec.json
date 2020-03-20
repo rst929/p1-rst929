@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/PizzaBox.Storage.csproj": {}
+  },
+  "projects": {
+    "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/PizzaBox.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/PizzaBox.Storage.csproj",
+        "projectName": "PizzaBox.Storage",
+        "projectPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/PizzaBox.Storage.csproj",
+        "packagesPath": "/Users/rcomputer/.nuget/packages/",
+        "outputPath": "/Users/rcomputer/Desktop/p1_project_v2/p1-rst929/PizzaBox.Storage/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rcomputer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
